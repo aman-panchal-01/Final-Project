@@ -1,0 +1,182 @@
+{
+    "john.doe@example.com": {
+        "password": "john123",
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 28
+    },
+    "jane.smith@example.com": {
+        "password": "jane456",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "age": 32
+    },
+    "alice.jones@example.com": {
+        "password": "alice789",
+        "first_name": "Alice",
+        "last_name": "Jones",
+        "age": 24
+    },
+    "bob.brown@example.com": {
+        "password": "bob101",
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "age": 30
+    },
+    "charlie.white@example.com": {
+        "password": "charlie202",
+        "first_name": "Charlie",
+        "last_name": "White",
+        "age": 35
+    },
+    "diana.green@example.com": {
+        "password": "diana303",
+        "first_name": "Diana",
+        "last_name": "Green",
+        "age": 27
+    },
+    "evan.black@example.com": {
+        "password": "evan404",
+        "first_name": "Evan",
+        "last_name": "Black",
+        "age": 29
+    },
+    "fiona.red@example.com": {
+        "password": "fiona505",
+        "first_name": "Fiona",
+        "last_name": "Red",
+        "age": 22
+    },
+    "george.blue@example.com": {
+        "password": "george606",
+        "first_name": "George",
+        "last_name": "Blue",
+        "age": 26
+    },
+    "hannah.yellow@example.com": {
+        "password": "hannah707",
+        "first_name": "Hannah",
+        "last_name": "Yellow",
+        "age": 31
+    },
+    "ian.purple@example.com": {
+        "password": "ian808",
+        "first_name": "Ian",
+        "last_name": "Purple",
+        "age": 34
+    },
+    "julia.orange@example.com": {
+        "password": "julia909",
+        "first_name": "Julia",
+        "last_name": "Orange",
+        "age": 25
+    },
+    "karl.gray@example.com": {
+        "password": "karl010",
+        "first_name": "Karl",
+        "last_name": "Gray",
+        "age": 33
+    },
+    "lisa.brown@example.com": {
+        "password": "lisa111",
+        "first_name": "Lisa",
+        "last_name": "Brown",
+        "age": 27
+    },
+    "mike.silver@example.com": {
+        "password": "mike212",
+        "first_name": "Mike",
+        "last_name": "Silver",
+        "age": 28
+    },
+    "nina.gold@example.com": {
+        "password": "nina313",
+        "first_name": "Nina",
+        "last_name": "Gold",
+        "age": 26
+    },
+    "owen.white@example.com": {
+        "password": "owen414",
+        "first_name": "Owen",
+        "last_name": "White",
+        "age": 29
+    },
+    "paula.gray@example.com": {
+        "password": "paula515",
+        "first_name": "Paula",
+        "last_name": "Gray",
+        "age": 32
+    },
+    "quinn.black@example.com": {
+        "password": "quinn616",
+        "first_name": "Quinn",
+        "last_name": "Black",
+        "age": 24
+    },
+    "rachel.green@example.com": {
+        "password": "rachel717",
+        "first_name": "Rachel",
+        "last_name": "Green",
+        "age": 35
+    },
+    "sam.brown@example.com": {
+        "password": "sam818",
+        "first_name": "Sam",
+        "last_name": "Brown",
+        "age": 30
+    },
+    "tara.red@example.com": {
+        "password": "tara919",
+        "first_name": "Tara",
+        "last_name": "Red",
+        "age": 28
+    },
+    "ulysses.blue@example.com": {
+        "password": "ulysses020",
+        "first_name": "Ulysses",
+        "last_name": "Blue",
+        "age": 33
+    },
+    "victor.green@example.com": {
+        "password": "victor121",
+        "first_name": "Victor",
+        "last_name": "Green",
+        "age": 31
+    },
+    "wendy.purple@example.com": {
+        "password": "wendy222",
+        "first_name": "Wendy",
+        "last_name": "Purple",
+        "age": 29
+    },
+    "john.doele.com": {
+        "password": "john123",
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 28
+    },
+    "aman@example.com": {
+        "password": "aman1234",
+        "first_name": "aman",
+        "last_name": "panchal",
+        "age": 19
+    },
+    "mana@exmpal.com": {
+        "password": "wendy222",
+        "first_name": "aman",
+        "last_name": "panchal",
+        "age": 28
+    },
+    "amaan@panchal.com": {
+        "password": "Aman2048",
+        "first_name": "Aman",
+        "last_name": "Panchal",
+        "age": 19
+    },
+    "janakbhatoua10@gmail.com": {
+        "password": "janakbha123",
+        "first_name": "janak",
+        "last_name": "bhatiya",
+        "age": 20
+    }
+}
