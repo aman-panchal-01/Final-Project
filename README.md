@@ -35,7 +35,7 @@ This module handles the song database operations, such as loading the data from 
 This module allows users to search for songs by title or artist.
 
 #### Methods:
-- **load_database(file_name)**: Loads the song database from a CSV file.
+- **load_database(file_name)**: Loads the song database from a txt file.
 - **search_by_title()**: Searches for songs by their title.
 - **search_by_artist()**: Searches for songs by artist name.
 - **get_artist_name(artist_name)**: Returns the artist name if found in the database.
@@ -57,40 +57,11 @@ This module defines custom exceptions used in the project to handle specific err
 - **SongNotFoundException**: Raised when a song is not found in the database.
 - **InvalidFileFormatException**: Raised when the format of the input file is invalid.
 
----
-
-## Setup and Installation
-
-1. **Prerequisites**:
-    - Python 3.x
-    - Text editor or IDE (such as Visual Studio Code or PyCharm)
-    - A valid CSV file containing song data in the following format:
-        ```csv
-        "Song Title","Artist Name","Album","Genre","Duration"
-        ```
-
-2. **Clone the Repository**:
-    To clone the repository, run the following command:
-    ```bash
-    git clone <repository_url>
-    ```
-
-3. **Install Dependencies**:
-    No external dependencies are required for this project other than Python 3.
-
-4. **Run the Application**:
-    To start the application, navigate to the directory containing the files and run the `user_menu.py` file:
-    ```bash
-    python user_menu.py
-    ```
-
----
-
 ## Usage
 
 After running the program, the user will be presented with a menu to interact with the song database. The options are as follows:
 
-1. **Load Database**: Prompt to enter the file name of the song database (CSV format). The file should contain song data in the format specified above.
+1. **Load Database**: Prompt to enter the file name of the song database. The file should contain song data in the format specified above.
 2. **Search Songs**:
    - **By Title**: Allows the user to search for a song by its title.
    - **By Artist**: Allows the user to search for songs by the artist's name.
@@ -105,14 +76,14 @@ After running the program, the user will be presented with a menu to interact wi
 The program includes the following exception handling:
 
 - **FileNotFoundError**: Raised when the specified file cannot be found.
-- **InvalidFileFormatException**: Raised when the CSV file format is incorrect.
+- **InvalidFileFormatException**: Raised when the txt file format is incorrect.
 - **EmptyDataBaseException**: Raised when the database is empty.
 - **ArtistNotFoundException**: Raised when the specified artist is not found in the database.
 - **SongNotFoundException**: Raised when the specified song is not found in the database.
 
 ---
 
-## Example CSV Format
+## Example Format for File
 
 The song database should be in this format, with each line containing the following columns:
 - Song Title
@@ -131,14 +102,7 @@ Example:
 
 ---
 
-## Future Enhancements
 
-- **Multiple File Format Support**: Support for loading databases in different formats like JSON or XML.
-- **Advanced Search**: Allow users to search based on additional parameters such as album or genre.
-- **User Authentication**: Implement user authentication for managing song data.
-- **Web Interface**: Build a web interface for easier interaction using frameworks like Flask or Django.
-
----
 
 
 **Thank you for using the Spotify Song Management System!**
